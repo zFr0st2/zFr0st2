@@ -4,7 +4,7 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado aprendiz de programación d
 
 ---
 
-![Banner GIF]([enlace_a_tu_banner.gif](https://giphy.com/gifs/art-pixel-city-NKEt9elQ5cR68))
+![Texto Alternativo][enlace_a_tu_banner.gif](https://giphy.com/gifs/art-pixel-city-NKEt9elQ5cR68))
 
 ---
 
@@ -23,8 +23,6 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado aprendiz de programación d
 ---
 
 ## Proyectos Destacados
-
-[Lista de proyectos destacados o enlaces a repositorios importantes.]
 https://github.com/zFr0st2/multer-express-files
 https://github.com/zFr0st2/node-express-vercel
 ---
