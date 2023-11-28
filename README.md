@@ -4,7 +4,7 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado aprendiz de programación d
 
 ---
 
-![Texto Alternativo][enlace_a_tu_banner.gif](https://giphy.com/gifs/art-pixel-city-NKEt9elQ5cR68))
+![Banner GIF](https://i.imgur.com/LVKvjL6.gif)
 
 ---
 
