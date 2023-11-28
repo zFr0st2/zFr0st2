@@ -10,7 +10,7 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado aprendiz de programación d
 
 ## Sobre Mí 🚀
 
-¡Hola! Soy Yorleider Ramirez, un apasionado venezolano que se embarcó en el fascinante mundo de la programación hace apenas dos semanas. Aunque mi trayectoria es breve, he dado pequeños pasos con determinación y estoy decidido a convertirme en un gran programador.
+¡Hola! Soy Yorleider Ramirez, un apasionado venezolano que se embarcó en el fascinante mundo de la programación. Aunque mi trayectoria es breve, he dado pequeños pasos con determinación y estoy decidido a convertirme en un gran programador.
 
 **Algunos puntos sobre mí:**
 - 💻 Actualmente aprendiendo y explorando diferentes tecnologías.
