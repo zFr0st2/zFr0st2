@@ -22,9 +22,4 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado aprendiz de programación d
 
 ---
 
-## Proyectos Destacados
-https://github.com/zFr0st2/multer-express-files
-https://github.com/zFr0st2/node-express-vercel
----
-
 ¡Gracias por visitar! Siéntete libre de explorar mis proyectos y contactarme para cualquier colaboración o pregunta.
